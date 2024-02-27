@@ -1,0 +1,943 @@
+[
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Viola Davis.png",
+  "name" : "Viola Davis",
+  "biography" : "Viola Davis is an American actress and producer. She is known for her powerful and emotionally resonant performances. Davis has won numerous awards, including an Academy Award for her role in 'Fences'. She is also known for her role as Annalise Keating in the TV series 'How to Get Away with Murder'.",
+  "performances" : [ {
+    "title" : "Doubt",
+    "type" : "Movie"
+  }, {
+    "title" : "The Help",
+    "type" : "Movie"
+  }, {
+    "title" : "Fences",
+    "type" : "Movie"
+  }, {
+    "title" : "Widows",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Brad Pitt.png",
+  "name" : "Brad Pitt",
+  "biography" : "Brad Pitt is an American actor and film producer. He has received multiple awards, including two Golden Globe Awards and an Academy Award for his acting. Pitt gained recognition in the 1990s for his roles in films like 'Legends of the Fall' and 'Seven'. He is known for his versatility and charismatic presence on screen.",
+  "performances" : [ {
+    "title" : "Fight Club",
+    "type" : "Movie"
+  }, {
+    "title" : "Once Upon a Time in Hollywood",
+    "type" : "Movie"
+  }, {
+    "title" : "Se7en",
+    "type" : "Movie"
+  }, {
+    "title" : "Inglourious Basterds",
+    "type" : "Movie"
+  }, {
+    "title" : "Moneyball",
+    "type" : "Movie"
+  }, {
+    "title" : "Friends",
+    "type" : "Series"
+  }, {
+    "title" : "The Big Short",
+    "type" : "Movie"
+  }, {
+    "title" : "Ocean's Eleven",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Meryl Streep.png",
+  "name" : "Meryl Streep",
+  "biography" : "Meryl Streep is an American actress. Often described as the 'best actress of her generation', Streep is particularly known for her versatility and accent adaptation. She has been nominated for the Academy Award a record-breaking 21 times and has won it three times. Streep's illustrious career spans over four decades, during which she has delivered remarkable performances in a wide range of roles.",
+  "performances" : [ {
+    "title" : "The Devil Wears Prada",
+    "type" : "Movie"
+  }, {
+    "title" : "Big Little Lies",
+    "type" : "Series"
+  }, {
+    "title" : "Mamma Mia!",
+    "type" : "Movie"
+  }, {
+    "title" : "The Iron Lady",
+    "type" : "Movie"
+  }, {
+    "title" : "Julie & Julia",
+    "type" : "Movie"
+  }, {
+    "title" : "The Post",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Tom Hanks.png",
+  "name" : "Tom Hanks",
+  "biography" : "Tom Hanks is an American actor. He is known for his versatile roles and has won numerous awards including two Academy Awards for Best Actor. Hanks' career spans over four decades, during which he has delivered iconic performances in various genres.",
+  "performances" : [ {
+    "title" : "Forrest Gump",
+    "type" : "Movie"
+  }, {
+    "title" : "Cast Away",
+    "type" : "Movie"
+  }, {
+    "title" : "Saving Private Ryan",
+    "type" : "Movie"
+  }, {
+    "title" : "Toy Story",
+    "type" : "Movie"
+  }, {
+    "title" : "Philadelphia",
+    "type" : "Movie"
+  }, {
+    "title" : "A League of Their Own",
+    "type" : "Movie"
+  }, {
+    "title" : "The Simpsons Movie",
+    "type" : "Movie"
+  }, {
+    "title" : "Bosom Buddies",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Leonardo DiCaprio.png",
+  "name" : "Leonardo DiCaprio",
+  "biography" : "Leonardo DiCaprio is an American actor and film producer. He has received numerous awards including an Academy Award for Best Actor. DiCaprio gained fame for his roles in films like 'Titanic' and has continued to deliver powerful performances in a wide range of genres.",
+  "performances" : [ {
+    "title" : "Titanic",
+    "type" : "Movie"
+  }, {
+    "title" : "The Revenant",
+    "type" : "Movie"
+  }, {
+    "title" : "Inception",
+    "type" : "Movie"
+  }, {
+    "title" : "The Wolf of Wall Street",
+    "type" : "Movie"
+  }, {
+    "title" : "The Departed",
+    "type" : "Movie"
+  }, {
+    "title" : "Growing Pains",
+    "type" : "Series"
+  }, {
+    "title" : "What's Eating Gilbert Grape",
+    "type" : "Movie"
+  }, {
+    "title" : "Revolutionary Road",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Johnny Depp.png",
+  "name" : "Johnny Depp",
+  "biography" : "Johnny Depp is an American actor, producer, and musician. He is known for his eccentric and versatile roles. Depp gained international fame for his portrayal of Captain Jack Sparrow in the 'Pirates of the Caribbean' series, and has continued to captivate audiences with his unique performances.",
+  "performances" : [ {
+    "title" : "Pirates of the Caribbean",
+    "type" : "Movie"
+  }, {
+    "title" : "Edward Scissorhands",
+    "type" : "Movie"
+  }, {
+    "title" : "Sweeney Todd: The Demon Barber of Fleet Street",
+    "type" : "Movie"
+  }, {
+    "title" : "Finding Neverland",
+    "type" : "Movie"
+  }, {
+    "title" : "Alice in Wonderland",
+    "type" : "Movie"
+  }, {
+    "title" : "Benny & Joon",
+    "type" : "Movie"
+  }, {
+    "title" : "Donnie Brasco",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Cate Blanchett.png",
+  "name" : "Cate Blanchett",
+  "biography" : "Cate Blanchett is an Australian actress and theatre director. She is known for her diverse roles and has received numerous awards, including two Academy Awards for Best Actress. Blanchett is celebrated for her ability to embody complex characters and bring them to life on screen.",
+  "performances" : [ {
+    "title" : "Blue Jasmine",
+    "type" : "Movie"
+  }, {
+    "title" : "The Lord of the Rings",
+    "type" : "Movie"
+  }, {
+    "title" : "Carol",
+    "type" : "Movie"
+  }, {
+    "title" : "Elizabeth",
+    "type" : "Movie"
+  }, {
+    "title" : "Notes on a Scandal",
+    "type" : "Movie"
+  }, {
+    "title" : "Bandits",
+    "type" : "Movie"
+  }, {
+    "title" : "Robin Hood",
+    "type" : "Movie"
+  }, {
+    "title" : "Little Fish",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Denzel Washington.png",
+  "name" : "Denzel Washington",
+  "biography" : "Denzel Washington is an American actor, director, and producer. He is known for his powerful performances and has won two Academy Awards for Best Actor. Washington is acclaimed for his ability to inhabit complex characters and bring depth to his portrayals.",
+  "performances" : [ {
+    "title" : "Training Day",
+    "type" : "Movie"
+  }, {
+    "title" : "Glory",
+    "type" : "Movie"
+  }, {
+    "title" : "Malcolm X",
+    "type" : "Movie"
+  }, {
+    "title" : "The Equalizer",
+    "type" : "Movie"
+  }, {
+    "title" : "Fences",
+    "type" : "Movie"
+  }, {
+    "title" : "American Gangster",
+    "type" : "Movie"
+  }, {
+    "title" : "Remember the Titans",
+    "type" : "Movie"
+  }, {
+    "title" : "Inside Man",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Nicole Kidman.png",
+  "name" : "Nicole Kidman",
+  "biography" : "Nicole Kidman is an Australian actress and producer. She is known for her compelling performances and has won numerous awards, including an Academy Award for Best Actress. Kidman is celebrated for her ability to convey complex emotions and bring depth to her characters.",
+  "performances" : [ {
+    "title" : "Moulin Rouge!",
+    "type" : "Movie"
+  }, {
+    "title" : "The Hours",
+    "type" : "Movie"
+  }, {
+    "title" : "Eyes Wide Shut",
+    "type" : "Movie"
+  }, {
+    "title" : "The Others",
+    "type" : "Movie"
+  }, {
+    "title" : "To Die For",
+    "type" : "Movie"
+  }, {
+    "title" : "Dead Calm",
+    "type" : "Movie"
+  }, {
+    "title" : "Rabbit Hole",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Robert Downey Jr.png",
+  "name" : "Robert Downey Jr.",
+  "biography" : "Robert Downey Jr. is an American actor and producer. He is known for his charismatic and versatile roles. Downey Jr. gained widespread recognition for his portrayal of Tony Stark/Iron Man in the Marvel Cinematic Universe and has continued to deliver memorable performances across various genres.",
+  "performances" : [ {
+    "title" : "Iron Man",
+    "type" : "Movie"
+  }, {
+    "title" : "Sherlock Holmes",
+    "type" : "Movie"
+  }, {
+    "title" : "Chaplin",
+    "type" : "Movie"
+  }, {
+    "title" : "The Avengers",
+    "type" : "Movie"
+  }, {
+    "title" : "Tropic Thunder",
+    "type" : "Movie"
+  }, {
+    "title" : "Less than Zero",
+    "type" : "Movie"
+  }, {
+    "title" : "Kiss Kiss Bang Bang",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Charlize Theron.png",
+  "name" : "Charlize Theron",
+  "biography" : "Charlize Theron is a South African and American actress and producer. She is known for her transformative roles and has received numerous awards, including an Academy Award for Best Actress. Theron is acclaimed for her ability to fully immerse herself in her characters and bring authenticity to her portrayals.",
+  "performances" : [ {
+    "title" : "Monster",
+    "type" : "Movie"
+  }, {
+    "title" : "Mad Max: Fury Road",
+    "type" : "Movie"
+  }, {
+    "title" : "Atomic Blonde",
+    "type" : "Movie"
+  }, {
+    "title" : "The Old Guard",
+    "type" : "Movie"
+  }, {
+    "title" : "The Italian Job",
+    "type" : "Movie"
+  }, {
+    "title" : "Arrested Development",
+    "type" : "Series"
+  }, {
+    "title" : "Young Adult",
+    "type" : "Movie"
+  }, {
+    "title" : "North Country",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Daniel Radcliffe.png",
+  "name" : "Daniel Radcliffe",
+  "biography" : "Daniel Radcliffe is an English actor and producer. He gained international fame for his role as Harry Potter in the Harry Potter film series. Radcliffe has since taken on a variety of roles in both film and stage productions, showcasing his versatility and talent as an actor.",
+  "performances" : [ {
+    "title" : "Harry Potter and the Sorcerer's Stone",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Chamber of Secrets",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Prisoner of Azkaban",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Goblet of Fire",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Order of the Phoenix",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Half-Blood Prince",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Deathly Hallows – Part 1",
+    "type" : "Movie"
+  }, {
+    "title" : "Harry Potter and the Deathly Hallows – Part 2",
+    "type" : "Movie"
+  }, {
+    "title" : "Swiss Army Man",
+    "type" : "Movie"
+  }, {
+    "title" : "The Woman in Black",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Bahoi.png",
+  "name" : "Bahoi",
+  "biography" : "Bahoi este un rapper roman. Acesta a devenit cunoscut in 2009, odata cu lansarea filmului 'Bahoi sare de pe pod'.",
+  "performances" : [ {
+    "title" : "Bahoi sare de pe pod",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Vasile Versaci.png",
+  "name" : "Vasile Versaci",
+  "biography" : "Vasile Versaci este un pregratar roman. Acesta a devenit cunoscut in 2017, odata cu lansarea filmului 'Vasile Versaci, cel mai bun pregratar gateste orez cu lapte!'.",
+  "performances" : [ {
+    "title" : "Vasile Versaci , cel mai bun pregratar gateste orez cu lapte!",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\unknownImage.png",
+  "name" : "Test Actor",
+  "performances" : [ {
+    "title" : "Test Movie",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Tim Robbins.png",
+  "name" : "Tim Robbins",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Shawshank Redemption",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Morgan Freeman.png",
+  "name" : "Morgan Freeman",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Shawshank Redemption",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Bryan Cranston.png",
+  "name" : "Bryan Cranston",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Breaking Bad",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Aaron Paul.png",
+  "name" : "Aaron Paul",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Breaking Bad",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\John Travolta.png",
+  "name" : "John Travolta",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Pulp Fiction",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Uma Thurman.png",
+  "name" : "Uma Thurman",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Pulp Fiction",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Marlon Brando.png",
+  "name" : "Marlon Brando",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Godfather",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Al Pacino.png",
+  "name" : "Al Pacino",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Godfather",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Liam Neeson.png",
+  "name" : "Liam Neeson",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Schindler's List",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Ben Kingsley.png",
+  "name" : "Ben Kingsley",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Schindler's List",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Elijah Wood.png",
+  "name" : "Elijah Wood",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Lord of the Rings: The Return of the King",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Viggo Mortensen.png",
+  "name" : "Viggo Mortensen",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Lord of the Rings: The Return of the King",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Ian McKellen.png",
+  "name" : "Ian McKellen",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Lord of the Rings: The Return of the King",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Adrien Brody.png",
+  "name" : "Adrien Brody",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Pianist",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Thomas Kretschmann.png",
+  "name" : "Thomas Kretschmann",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Pianist",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Keanu Reeves.png",
+  "name" : "Keanu Reeves",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Matrix",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Laurence Fishburne.png",
+  "name" : "Laurence Fishburne",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Matrix",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Benedict Cumberbatch.png",
+  "name" : "Benedict Cumberbatch",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Sherlock",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Martin Freeman.png",
+  "name" : "Martin Freeman",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Sherlock",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Christian Bale.png",
+  "name" : "Christian Bale",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Dark Knight",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Heath Ledger.png",
+  "name" : "Heath Ledger",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Dark Knight",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Joseph Gordon-Levitt.png",
+  "name" : "Joseph Gordon-Levitt",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Inception",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Millie Bobby Brown.png",
+  "name" : "Millie Bobby Brown",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Stranger Things",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Finn Wolfhard.png",
+  "name" : "Finn Wolfhard",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Stranger Things",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Robin Wright.png",
+  "name" : "Robin Wright",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Forrest Gump",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Michael Clarke Duncan.png",
+  "name" : "Michael Clarke Duncan",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Green Mile",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\David Morse.png",
+  "name" : "David Morse",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Green Mile",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Diane Kruger.png",
+  "name" : "Diane Kruger",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Inglourious Basterds",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Christoph Waltz.png",
+  "name" : "Christoph Waltz",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Inglourious Basterds",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Kang-ho Song.png",
+  "name" : "Kang-ho Song",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Parasite",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Sun-kyun Lee.png",
+  "name" : "Sun-kyun Lee",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Parasite",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Yeo-jeong Jo.png",
+  "name" : "Yeo-jeong Jo",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Parasite",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Joaquin Phoenix.png",
+  "name" : "Joaquin Phoenix",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Joker",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Robert De Niro.png",
+  "name" : "Robert De Niro",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Joker",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Dean-Charles Chapman.png",
+  "name" : "Dean-Charles Chapman",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "1917",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\George MacKay.png",
+  "name" : "George MacKay",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "1917",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Joe Pesci.png",
+  "name" : "Joe Pesci",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Irishman",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Pedro Pascal.png",
+  "name" : "Pedro Pascal",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Mandalorian",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Gina Carano.png",
+  "name" : "Gina Carano",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Mandalorian",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Anya Taylor-Joy.png",
+  "name" : "Anya Taylor-Joy",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Queen's Gambit",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Bill Camp.png",
+  "name" : "Bill Camp",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Queen's Gambit",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Lee Jung-jae.png",
+  "name" : "Lee Jung-jae",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Squid Game",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Park Hae-soo.png",
+  "name" : "Park Hae-soo",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Squid Game",
+    "type" : "Series"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Miles Teller.png",
+  "name" : "Miles Teller",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Whiplash",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\J.K. Simmons.png",
+  "name" : "J.K. Simmons",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Whiplash",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Jesse Eisenberg.png",
+  "name" : "Jesse Eisenberg",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Social Network",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Andrew Garfield.png",
+  "name" : "Andrew Garfield",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Social Network",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Jim Carrey.png",
+  "name" : "Jim Carrey",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Eternal Sunshine of the Spotless Mind",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Kate Winslet.png",
+  "name" : "Kate Winslet",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Eternal Sunshine of the Spotless Mind",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Ryan Gosling.png",
+  "name" : "Ryan Gosling",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "La La Land",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Emma Stone.png",
+  "name" : "Emma Stone",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "La La Land",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Ralph Fiennes.png",
+  "name" : "Ralph Fiennes",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Grand Budapest Hotel",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\F. Murray Abraham.png",
+  "name" : "F. Murray Abraham",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Grand Budapest Hotel",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Sally Hawkins.png",
+  "name" : "Sally Hawkins",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Shape of Water",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Octavia Spencer.png",
+  "name" : "Octavia Spencer",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Shape of Water",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Michael Shannon.png",
+  "name" : "Michael Shannon",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Shape of Water",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Natalie Portman.png",
+  "name" : "Natalie Portman",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Black Swan",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Mila Kunis.png",
+  "name" : "Mila Kunis",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "Black Swan",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Tom Hardy.png",
+  "name" : "Tom Hardy",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Revenant",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Russell Crowe.png",
+  "name" : "Russell Crowe",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "A Beautiful Mind",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Ed Harris.png",
+  "name" : "Ed Harris",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "A Beautiful Mind",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Jennifer Connelly.png",
+  "name" : "Jennifer Connelly",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "A Beautiful Mind",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Matt Damon.png",
+  "name" : "Matt Damon",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Departed",
+    "type" : "Movie"
+  } ]
+},
+{
+  "imagePath" : "IMDB\\src\\main\\java\\org\\example\\GUI\\images\\Actors\\Jack Nicholson.png",
+  "name" : "Jack Nicholson",
+  "biography" : null,
+  "performances" : [ {
+    "title" : "The Departed",
+    "type" : "Movie"
+  } ]
+}
+]
